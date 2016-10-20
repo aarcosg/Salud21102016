@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Salud21102016</string>
+    <string name="create_patient">Create patient</string>
+    <string name="view_patient">View patient</string>
+</resources>
