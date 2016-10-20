@@ -2,17 +2,13 @@ package es.us.salud21102016;
 
 public class Patient {
 
-    public String id;
-    public String name;
-    public Long age;
-    public Long timestamp;
-
-    public Patient(){}
-
-    public Patient(String id, String name, Long age, Long timestamp) {
-        this.id = id;
-        this.name = name;
-        this.age = age;
-        this.timestamp = timestamp;
-    }
+    /* TODO 0 Implementar clase Patient
+    - Debe tener los siguientes atributos públicos:
+        @param id:String
+        @param name:String
+        @param age:Long
+        @param timestamp:Long
+    - Constructor vacío
+    - Constructor con todos los parámetros
+    */
 }
