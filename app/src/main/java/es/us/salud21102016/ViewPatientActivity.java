@@ -72,6 +72,6 @@ public class ViewPatientActivity extends AppCompatActivity {
                 .limitToLast(1);
 
         // Añadir el listener a la base de datos
-        lastPatientQuery.addListenerForSingleValueEvent(patientListener);
+        lastPatientQuery.addValueEventListener(patientListener);
     }
 }
